@@ -13,8 +13,6 @@ This dataset is currently in the pre-release phase as the associated paper is un
 
 **Planned Release Platform**: The dataset download link will be provided through a Baidu Netdisk link on this GitHub page.
 
-**License**: The dataset will be shared under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), allowing users to use, distribute, and adapt the dataset with proper attribution for non-commercial purposes.
-
 ## Dataset Composition
 - **Total Image Pairs**: 3,000
 - **Training Pairs**: 2,500
